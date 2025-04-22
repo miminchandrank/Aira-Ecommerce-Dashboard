@@ -41,16 +41,6 @@ This dashboard empowers Aira to:
 ## 🔗 Live Dashboard
 Check out the published version here: [Live Dashboard on NovyPro](https://lnkd.in/gU9jj5s9)
 
----
-
-## 📁 Repository Structure
-- `Aira_Sales_Dashboard.pbix` — The main Power BI dashboard file
-- `Data/` — Sample CSV data files used for this project
-- `SQL_Scripts/` — SQL scripts for initial data extraction and transformation
-- `Screenshots/` — Previews of the dashboard (Sales View & Finance View)
-- `README.md` — Project documentation
-
----
 
 ## 🤝 Let's Connect
 Feel free to star ⭐ this repository or connect with me on [LinkedIn](https://www.linkedin.com/in/miminchandrank) to discuss:
