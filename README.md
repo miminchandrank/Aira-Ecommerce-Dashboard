@@ -1,58 +1,66 @@
 # Aira E-commerce Sales Dashboard | Power BI Project
 
-Welcome to the official GitHub repository for my **Power BI dashboard project** built for **Aira**, a leading fashion e-commerce brand. This dashboard provides deep insights into sales and financial performance, helping stakeholders make data-driven decisions.
+Welcome to the GitHub repository for the **Aira E-commerce Sales Dashboard**, built using **Power BI**. This project visualizes sales and finance insights for **Aira**, a leading fashion brand, leveraging data from over **90,000 customer transactions** across multiple platforms, categories, and regions.
 
-## Project Overview
+## 🔍 Project Overview
+This dashboard provides a centralized, interactive platform for Aira’s leadership to track and analyze:
+- Sales performance
+- Financial metrics
+- Customer behavior patterns
+- Platform and product category trends
 
-This project showcases an interactive Power BI dashboard visualizing data from over **90,000 customer transactions** across multiple platforms, categories, and regions. It centralizes KPIs related to finance and sales, enabling Aira's team to optimize their business strategies.
+## 📊 Dashboard Highlights
 
-## Dashboard Highlights
-
-### Finance View
-- Net Sales, Gross Margin, and Net Profit
+### 💼 Finance View
+- Net Sales, Gross Margin, and Net Profit KPIs
 - YOY (Year-over-Year) Growth Analysis
 - Platform-wise and Product-wise Financial Performance
-- Financial Flow Visualization using a Waterfall Chart
+- Financial flow visualization through a **Waterfall Chart**
 
-### Sales View
-- Total Orders, Average Delivery Time, and Return Rate
-- YOY Growth in Net Sales and Orders
+### 🛒 Sales View
+- Total Orders, Return Rate, and Average Delivery Time
+- YOY Growth in Sales and Orders
 - Sales Distribution by Gender
 - Top 5 Cities and States by Profit
-- Drilldowns, Slicers, and Dynamic Filters
+- Drilldowns and dynamic slicers for detailed exploration
 
-## Technical Stack
-- **Power BI** for building interactive visualizations
-- **Power Query** for data transformation and optimization
-- **SQL and CSV Files** for data integration
-- Efficient Data Modeling with optimized joins and relationships
+## ⚙️ Technical Stack
+- **Power BI** for visualization and reporting
+- **Power Query** for data cleaning, transformation, and modeling
+- **SQL and CSV files** for data integration
+- Interactive elements like slicers, drilldowns, and tooltips
+- Optimized data model with efficient joins and relationships
 
-## Business Impact
+## ✅ Business Impact
+This dashboard empowers Aira to:
+- Make faster, data-driven business decisions
+- Identify high-performing regions, products, and platforms
+- Improve operational efficiency and marketing strategies
+- Monitor profitability and optimize return management
 
-The dashboard enables Aira to:
-- Identify top-performing regions, platforms, and products
-- Monitor customer behavior and order trends
-- Improve marketing, inventory, and financial strategies
-- Drive profitability through data-backed decision-making
-
-## Live Dashboard
-
-Check out the live dashboard here: [Live Dashboard on NovyPro](https://lnkd.in/gU9jj5s9)
-
-## Repository Structure
-
-```
-|-- Aira_Sales_Dashboard.pbix   # Main Power BI dashboard file
-|-- Data/                       # Sample CSV data files
-|-- SQL_Scripts/                 # SQL scripts for data transformation
-|-- Screenshots/                 # Dashboard preview images
-|-- README.md                    # Project documentation
-```
-
-## Let's Connect
-
-Feel free to star ⭐ this repository or connect with me on [LinkedIn](https://www.linkedin.com/in/miminchandrank) to discuss data analytics, dashboard design, or Power BI projects!
+## 🔗 Live Dashboard
+Check out the published version here: [Live Dashboard on NovyPro](https://lnkd.in/gU9jj5s9)
 
 ---
 
-#PowerBI #DataAnalytics #EcommerceDashboard #DataVisualization #BusinessIntelligence #SQL #PowerQuery #FashionTech #AiraFashion
+## 📁 Repository Structure
+- `Aira_Sales_Dashboard.pbix` — The main Power BI dashboard file
+- `Data/` — Sample CSV data files used for this project
+- `SQL_Scripts/` — SQL scripts for initial data extraction and transformation
+- `Screenshots/` — Previews of the dashboard (Sales View & Finance View)
+- `README.md` — Project documentation
+
+---
+
+## 🤝 Let's Connect
+Feel free to star ⭐ this repository or connect with me on [LinkedIn](https://www.linkedin.com/in/miminchandrank) to discuss:
+- Power BI
+- Data Analytics
+- Dashboard Design
+- E-commerce Analytics
+
+I'm always open to collaboration and feedback!
+
+---
+
+**#PowerBI #DataAnalytics #BusinessIntelligence #DashboardDesign #Ecommerce #SQL #PowerQuery #AiraFashion #DataVisualization**
