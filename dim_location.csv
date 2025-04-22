@@ -1,0 +1,44 @@
+City,State,Region
+New Delhi,Delhi,North
+Delhi NCR,Delhi,North
+Chandigarh,Punjab,North
+Ludhiana,Punjab,North
+Amritsar,Punjab,North
+Jalandhar,Punjab,North
+Jaipur,Rajasthan,North
+Jodhpur,Rajasthan,North
+Udaipur,Rajasthan,North
+Kota,Rajasthan,North
+Ajmer,Rajasthan,North
+Lucknow,Uttar Pradesh,North
+Kanpur,Uttar Pradesh,North
+Varanasi,Uttar Pradesh,North
+Agra,Uttar Pradesh,North
+Noida,Uttar Pradesh,North
+Bangalore,Karnataka,South
+Mysore,Karnataka,South
+Hubli,Karnataka,South
+Mangalore,Karnataka,South
+Belgaum,Karnataka,South
+Chennai,Tamil Nadu,South
+Coimbatore,Tamil Nadu,South
+Madurai,Tamil Nadu,South
+Salem,Tamil Nadu,South
+Trichy,Tamil Nadu,South
+Hyderabad,Telangana,South
+Warangal,Telangana,South
+Nizamabad,Telangana,South
+Karimnagar,Telangana,South
+Mumbai,Maharashtra,West
+Pune,Maharashtra,West
+Nagpur,Maharashtra,West
+Nashik,Maharashtra,West
+Aurangabad,Maharashtra,West
+Ahmedabad,Gujarat,West
+Surat,Gujarat,West
+Vadodara,Gujarat,West
+Rajkot,Gujarat,West
+Kolkata,West Bengal,East
+Howrah,West Bengal,East
+Durgapur,West Bengal,East
+Asansol,West Bengal,East

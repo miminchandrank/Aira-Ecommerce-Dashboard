@@ -1,0 +1,41 @@
+ProductID,ProductName,Price,Category
+1001,Embroidered Anarkali Suit,2499,Ethnic Wear
+1002,Banarasi Silk Saree,3999,Ethnic Wear
+1003,Designer Kurta Set,1899,Ethnic Wear
+1004,Kanjeevaram Silk Saree,5999,Ethnic Wear
+1005,Palazzo Suit Set,1599,Ethnic Wear
+1006,Embellished Lehenga Choli,4499,Ethnic Wear
+1007,Chanderi Silk Dupatta,899,Ethnic Wear
+1008,Block Print Kurta,1299,Ethnic Wear
+2001,Slim Fit Denim Jeans,1299,Western Wear
+2002,Floral Maxi Dress,1599,Western Wear
+2003,Crop Top,699,Western Wear
+2004,High-Waist Trousers,1799,Western Wear
+2005,Boyfriend Blazer,2299,Western Wear
+2006,Bodycon Dress,1499,Western Wear
+2007,Ruffled Blouse,899,Western Wear
+2008,Pleated Skirt,1199,Western Wear
+3001,Block Heel Sandals,999,Footwear
+3002,Leather Boots,2499,Footwear
+3003,Canvas Sneakers,1299,Footwear
+3004,Stiletto Heels,1899,Footwear
+3005,Comfort Flats,799,Footwear
+3006,Ethnic Juttis,1199,Footwear
+3007,Sports Shoes,1699,Footwear
+3008,Ankle Boots,2199,Footwear
+4001,Leather Tote Bag,1999,Accessories
+4002,Statement Necklace,899,Accessories
+4003,Silk Scarf,499,Accessories
+4004,Designer Clutch,1499,Accessories
+4005,Sterling Silver Bracelet,1299,Accessories
+4006,Crossbody Bag,1699,Accessories
+4007,Designer Sunglasses,999,Accessories
+4008,Pearl Earrings,799,Accessories
+5001,Yoga Pants,1299,Active Wear
+5002,Sports Bra,799,Active Wear
+5003,Running Shorts,699,Active Wear
+5004,Gym Tank Top,599,Active Wear
+5005,Track Suit,1899,Active Wear
+5006,Athletic Jacket,1499,Active Wear
+5007,Compression Leggings,999,Active Wear
+5008,Workout T-shirt,699,Active Wear
